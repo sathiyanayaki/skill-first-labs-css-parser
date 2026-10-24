@@ -1,0 +1,16 @@
+/* Sample CSS for the demo */
+.header, .nav {
+    color: blue;
+    font-size: 16px;
+    background: url("images/banner;wide.png");
+}
+
+#main {
+    margin: 0 auto;
+    padding: 12px;
+    content: "text with /* comment-like text */";
+}
+
+.footer {
+    color: gray;
+}
